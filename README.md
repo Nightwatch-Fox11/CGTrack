@@ -1,2 +1,2 @@
 # CGTrack
-[ICRA 2025] CGTrack: Cascade Gating Network with Hierarchical Feature Aggregation for UAV Tracking
+The official implementation for the **ICRA 2025** paper **CGTrack: Cascade Gating Network with Hierarchical Feature Aggregation for UAV Tracking**
